@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\W1D2\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
