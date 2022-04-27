@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\bin\Debug\net5.0\DomainLayer.deps.json
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\bin\Debug\net5.0\DomainLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\bin\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\bin\Debug\net5.0\DomainLayer.pdb
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\DomainLayer.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\DomainLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\ref\DomainLayer.dll
+C:\Users\Lenovo\Desktop\FulfillmentIQ\ASP.NET\Source Code\NewW1D1\DomainLayer\obj\Debug\net5.0\DomainLayer.pdb
