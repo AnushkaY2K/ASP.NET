@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h84j3SKgpsXKyNzry9XoNm0aQTdtNU0OUz8bNybEV8U=",
+  "Source": "AmazonWebApplication",
+  "BasePath": "_content/AmazonWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
